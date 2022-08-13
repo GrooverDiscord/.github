@@ -19,4 +19,4 @@
 # 🔰 Info
 `djmode`, `hasvoted`, `help`, `invite`, `ping`, `stats`, `uptime`, `vote`
 
-[**Groover Support Server**](https://discord.gg/4x4MHGHUXC)
+[**Groover Support Server**](https://discord.gg/8Th2tFp3d6)
